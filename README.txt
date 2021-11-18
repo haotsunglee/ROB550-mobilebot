@@ -1,8 +1,7 @@
 /*******************************************************************************
 *       
-*    This code is for completing a fully featured
-*    mobile robot controller for MBot-Mini
-*   
+*    This code is for mobile robot controller for MBot-Mini.
+*    A preceding work for Botlab project.
 *
 *******************************************************************************/
 
