@@ -1,11 +1,8 @@
 /*******************************************************************************
-*                 Mobilebot Template Code for MBot/MBot-Mini
-*                           pgaskell@umich.edu
 *       
-*    This code is a template for completing a fully featured
-*    mobile robot controller
+*    This code is for completing a fully featured
+*    mobile robot controller for MBot-Mini
 *   
-*    Functions that need completing are marked with "TODO:"
 *
 *******************************************************************************/
 
